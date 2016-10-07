@@ -1,0 +1,9 @@
+h -40 -24 98 60
+c -40 -24 1 1 0 n3x50.gex
+c -6 3 1 1 0 act_via.gex
+c -5 -15 1 1 0 m1m2_via.gex
+c -5 21 1 1 0 poly_via.gex
+c 10 -11 1 1 0 pwell_via.gex
+c 10 16 1 1 0 nwell_via.gex
+c 22 -20 1 1 0 GTAP.gex
+c 42 -20 1 1 0 VTAP.gex

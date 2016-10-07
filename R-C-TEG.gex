@@ -1,0 +1,5 @@
+h -202 -17 336 360
+c -137 -17 1 1 1 r500k_all.gex
+c -256 134 1 1 0 r100k_all.gex
+c -111 69 1 1 1 r10k_all.gex
+c -20 0 1 1 0 cap3p_all.gex
